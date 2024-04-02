@@ -41,3 +41,6 @@
 ![LuizGabrielJung's Stats](https://github-readme-stats.vercel.app/api?username=LuizGabrielJung&theme=dark&show_icons=true&hide_border=false&count_private=true)  
 ![LuizGabrielJung's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuizGabrielJung&theme=dark&hide_border=false)  
 ![LuizGabrielJung's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGabrielJung&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
+
+[![](https://visitcount.itsvg.in/api?id=LuizGabrielJung&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
