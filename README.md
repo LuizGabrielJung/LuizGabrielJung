@@ -1,14 +1,15 @@
 # 🧑🏻‍💻 About Me:
 
-👋 Hello! I'm a programming enthusiast passionate about building innovative solutions! Currently, I'm working with ReactJS and Django, exploring new possibilities and honing my skills. 🚀  
-💻 I have experience in various projects with Python 🐍, PHP, and JavaScript.  
-📊 I'm experienced in both SQL and NoSQL databases. 💡  
-📧 Contact me via email at **luizgabrieljungdev@gmail.com** or through my Telegram at the icon below.
+👋 Hello! I'm a programming enthusiast passionate about building innovative solutions, with over 5 years of knowledge and experience in the field! Currently, I'm working with ReactJS and Django, exploring new possibilities and honing my skills. 🚀
+💻 I have experience in various projects with Python 🐍, PHP, and JavaScript.
+📊 I'm experienced in both SQL and NoSQL databases. 💡
+👨🏻‍💻 You can see below the experiences and knowledge I possess.
+📧 Contact me via email at luizgabrieljungdev@gmail.com or through my Telegram at the icon below.
 
 ## 👤 Profile & Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizgabrieljung/)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luizgabrieljungdev/)
 
 
 ## 🧠 Skills:
